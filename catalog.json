@@ -1,7 +1,7 @@
 [
   {
     "slug": "charles",
-    "trk": "song-charles.trk",
+    "trk": "https://github.com/alexiej/player/releases/download/v1.0/song-charles.trk",
     "json": "song-charles.json",
     "title": "BARCELONA",
     "artist": "Charles Luis, Dimelo Cupido, Dj Husky",
@@ -11,7 +11,7 @@
   },
   {
     "slug": "desnudate",
-    "trk": "song-desnudate.trk",
+    "trk": "https://github.com/alexiej/player/releases/download/v1.0/song-desnudate.trk",
     "json": "song-desnudate.json",
     "title": "Desnúdate",
     "artist": "Dani J",
@@ -21,7 +21,7 @@
   },
   {
     "slug": "jiory",
-    "trk": "song-jiory.trk",
+    "trk": "https://github.com/alexiej/player/releases/download/v1.0/song-jiory.trk",
     "json": "song-jiory.json",
     "title": "Eso Es Amor",
     "artist": "Jiory",
