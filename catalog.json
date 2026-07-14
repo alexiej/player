@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "charles",
+    "trk": "song-charles.trk",
+    "json": "song-charles.json",
+    "title": "BARCELONA",
+    "artist": "Charles Luis, Dimelo Cupido, Dj Husky",
+    "genre": "Bachata",
+    "bpm": 128,
+    "stems": 4
+  },
+  {
+    "slug": "desnudate",
+    "trk": "song-desnudate.trk",
+    "json": "song-desnudate.json",
+    "title": "Desnúdate",
+    "artist": "Dani J",
+    "genre": "Bachata",
+    "bpm": 130,
+    "stems": 7
+  },
+  {
+    "slug": "jiory",
+    "trk": "song-jiory.trk",
+    "json": "song-jiory.json",
+    "title": "Eso Es Amor",
+    "artist": "Jiory",
+    "genre": "Bachata",
+    "bpm": 132,
+    "stems": 7
+  }
+]

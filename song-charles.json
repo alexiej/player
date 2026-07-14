@@ -1,0 +1,236 @@
+{
+  "trim": 1.49,
+  "beatsPerMeasure": 8,
+  "info": {
+    "title": "BARCELONA",
+    "artist": "Charles Luis, Dimelo Cupido, Dj Husky",
+    "genre": "Bachata",
+    "bpm": 128,
+    "dateAdded": "2026-07-14T00:00:00Z"
+  },
+  "tracks": [
+    "Vocals",
+    {
+      "title": "Kick Drum",
+      "groups": [
+        "Percussion",
+        "Rhythm"
+      ]
+    },
+    {
+      "title": "Bass Guitar",
+      "groups": [
+        "Guitars",
+        "Rhythm"
+      ]
+    },
+    {
+      "title": "Rhythm Guitar",
+      "groups": "Guitars"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Intro",
+      "phrases": [
+        [
+          1
+        ]
+      ],
+      "_time": "0.0s – 0.0s",
+      "_beats": 1,
+      "_active": []
+    },
+    {
+      "title": "Verse 1",
+      "structure": "Derecho",
+      "phrases": [
+        [
+          8
+        ],
+        [
+          1
+        ]
+      ],
+      "_time": "0.0s – 5.8s",
+      "_beats": 9,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "structure": "Derecho",
+      "phrases": [
+        [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        [
+          3
+        ]
+      ],
+      "_time": "5.8s – 36.8s",
+      "_beats": 67,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Bass Guitar",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Mambo 1",
+      "structure": "Mambo",
+      "phrases": [
+        [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        [
+          7
+        ]
+      ],
+      "_time": "36.8s – 66.1s",
+      "_beats": 63,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Bass Guitar",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "structure": "Derecho",
+      "phrases": [
+        [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      ],
+      "_time": "66.1s – 95.9s",
+      "_beats": 64,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Bass Guitar",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Mambo 2",
+      "structure": "Mambo",
+      "phrases": [
+        [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        [
+          1
+        ]
+      ],
+      "_time": "95.9s – 155.7s",
+      "_beats": 129,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Bass Guitar",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Verse 4",
+      "structure": "Derecho",
+      "phrases": [
+        [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        [
+          2
+        ]
+      ],
+      "_time": "155.7s – 186.1s",
+      "_beats": 66,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Bass Guitar",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Verse 5",
+      "structure": "Derecho",
+      "phrases": [
+        [
+          8
+        ],
+        [
+          7
+        ]
+      ],
+      "_time": "186.1s – 193.1s",
+      "_beats": 15,
+      "_active": [
+        "Vocals",
+        "Kick Drum",
+        "Rhythm Guitar"
+      ]
+    },
+    {
+      "title": "Outro",
+      "phrases": [
+        [
+          6
+        ]
+      ],
+      "_time": "193.1s – 196.0s",
+      "_beats": 6,
+      "_active": [
+        "Vocals",
+        "Rhythm Guitar"
+      ]
+    }
+  ]
+}
